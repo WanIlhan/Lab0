@@ -29,15 +29,8 @@ Docker serves as the foundational container engine required to host both the Loc
 
 ### Steps
 
-1. Install Docker according to the operating system.
-2. Start Docker.
-3. Verify the Docker installation:
+1. Configure Docker and permissions.
+2. Verify Docker functionality:
 
 ```bash
 docker --version
-### Result
-
-The system returned the installed Docker engine build details, confirming the service is active and ready for container execution:
-
-```text
-Docker version 28.5.2+dfsg4, build 9cc6dea35e9a963f281434761c656fba4ac43aed
